@@ -19,3 +19,5 @@ pip install -r requirements.txt
 
 ## 具体运行方法
 运行`main.ipynb` 查看输出结果
+
+![image](https://github.com/user-attachments/assets/d096324b-04d7-43e7-bb66-6b5cd736bcb2)
